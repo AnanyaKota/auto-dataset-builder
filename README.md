@@ -242,16 +242,37 @@ streamlit run ui/app.py
 
 
 
-images/ui.png
-images/output.png
-
-
-Example:
+### UI
 
 ![UI](images/ui.png)
 
-![Output](images/output.png)
+### Image Scraping
 
+![Scraping](images/panda_scraping.png)
+
+### Raw Images
+
+![Raw](images/raw.png)
+
+### Cleaning Stage
+
+![Cleaning](images/cleaning.png)
+
+### CV Processing
+
+![CV](images/cv_output.png)
+
+### Processed Output
+
+![Processed](images/panda_processed.png)
+
+### Another Dataset Example
+
+![Food](images/food.png)
+
+### Download Dataset
+
+![Download](images/download_clear.png)
 ---
 
 ## 📊 Applications
