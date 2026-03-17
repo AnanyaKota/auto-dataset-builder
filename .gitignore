@@ -1,0 +1,9 @@
+AutoDataset Builder/
+│
+├── scraper/
+├── processor/
+├── ui/
+├── dataset/
+├── README.md
+├── requirements.txt
+└── .gitignore   ← HERE

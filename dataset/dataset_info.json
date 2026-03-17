@@ -1,0 +1,15 @@
+{
+    "apple devices": {
+        "image_count": 0,
+        "created_at": "2026-03-17 09:54:25.956673"
+    },
+    "panda": {
+        "image_count": 20,
+        "created_at": "2026-03-17 09:54:25.956769"
+    },
+    "bonobo": {
+        "image_count": 18,
+        "created_at": "2026-03-17 09:54:25.956838"
+    },
+    "TOTAL": 38
+}
